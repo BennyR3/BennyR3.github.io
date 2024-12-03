@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -41,10 +41,10 @@ sidebar:
         - item: Fencing
           link: https://www.instagram.com/jmufencing/
 
-        - item: Snowboarding
-          link:
+        - item: Chess
+          link: https://www.chess.com/member/bricks3100
 
-        - item: Cooking
+        - item: Content Creation
           link:
 
 career-profile:
@@ -59,6 +59,8 @@ education:
       - degree: BSc in Computer Information Systems
         university: James Madison University
         time: 2020-2024
+
+        
 
 experiences:
     title: Experience
@@ -127,8 +129,6 @@ certifications:
 
 projects:
     title: Projects
-    intro: >
-      Personal Projects
     assignments:
       - title: VB Pilates
         link: "https://www.vbpilates.com/"
@@ -140,7 +140,7 @@ skills:
 
     toolset:
       - name: HTML5 CSS & JavaScript
-        level: 98%
+        level: 85%
 
       - name: ASP.NET MVC
         level: 59%
